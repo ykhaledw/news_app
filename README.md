@@ -1,6 +1,6 @@
 # new_app
 
-A new Flutter project.
+Engineered a dynamic news application using Flutter that delivers up-to-date and personalized news content. The app features intuitive navigation, categorized news sections, and a clean, visually appealing interface. Integrated API calls for real-time news updates and incorporated Flutter's widget library for efficient UI development. 
 
 ## Tools
 
