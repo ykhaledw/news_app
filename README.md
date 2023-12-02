@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## Tools
 
-This project is a starting point for a Flutter application.
+Conditional_builder_null_safety
 
-A few resources to get you started if this is your first Flutter project:
+dio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. General News Screen
+2. Business Screen
+3. Science Screen
+4. Sports Screen
+5. Search Screen
