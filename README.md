@@ -4,9 +4,11 @@ Engineered a dynamic news application using Flutter that delivers up-to-date and
 
 ## Tools
 
-Conditional_builder_null_safety
-
-dio
+- Conditional_builder_null_safety
+- dio
+- network_image_mock
+- cached_network_image
+- webview_flutter
 
 ## Features
 
